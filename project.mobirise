@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "https://seedperapatwanita.blogspot.co.id/",
+    "name": "seed perapat",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 30,
@@ -39,7 +39,7 @@
         "#cc1f4a"
       ]
     },
-    "favicon": "@PROJECT_PATH@/assets/images/seed-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/seed-128x128-1.png",
     "noImageResize": "",
     "google-analytics": ""
   },
