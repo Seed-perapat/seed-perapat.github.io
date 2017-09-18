@@ -39,7 +39,7 @@
         "#cc1f4a"
       ]
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/seed-128x128.png",
     "noImageResize": "",
     "google-analytics": ""
   },
@@ -47,8 +47,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Seed Perapat mizz v",
+        "meta_descr": "SeedPerapat (Seed Perapat) adalah herbal khusus untuk memanjakan bagian kewanitaan agar tetap bersih dan sehat. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
